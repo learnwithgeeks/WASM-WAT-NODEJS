@@ -9,6 +9,7 @@
   "author": "vivek",
   "license": "ISC",
   "dependencies": {
+    "snyk": "^1.179.0",
     "wat2wasm": "^1.0.2"
   }
 }
